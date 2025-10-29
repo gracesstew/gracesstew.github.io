@@ -1,1 +1,22 @@
 /* css styles */
+h1 {
+  color:; cyan;
+  font-style: bold;
+}
+
+p, h3 {
+  font-family: Comic Sans MS;
+}
+
+a {
+  color: pink;
+}
+
+a:hover {
+  color: magenta;
+}
+
+title {
+  font-family: Comic Sans MS;
+  font-style: bold;
+}

@@ -3,18 +3,25 @@ project:
   output-dir: docs
 
 website:
-  title: "gracesstew.github.io"
+  title: "@gracesstew"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - resume.qmd
+      - projects.qmd
+      - icon: github
+        href: https://github.com/gracesstew
+        target: blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gracesstewart
+        target: blank
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: minty
+      #dark: slate
     css: styles.css
     toc: true
 

@@ -1,13 +1,25 @@
 ---
-title: "gracesstew.github.io"
+title: "𝒈𝒓𝒂𝒄𝒆 𝒔𝒕𝒆𝒘𝒂𝒓𝒕"
+image: media/echidnapuggle.png
+about:
+  template: jolla
+  links:
+    - text: contact me!
+      icon: envelope-heart-fill
+      href: mailto:grace.stewart@student.chaminade.edu
+      target: blank
+    - icon: github
+      href: https://github.com/gracesstew
+      target: blank
+    - icon: linkedin
+      href: https://www.linkedin.com/in/gracesstewart
+      target: blank
 ---
 
-hi
+### hello! ⋆˙⟡.ೃ࿔⋆
 
-This is a Quarto website.
+my name is grace stewart. i am a computer and data science major at chaminade university of honolulu. ♡
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+[LINK](https://youtu.be/EfsK7-p-UW0?si=UjCdIHpnezRmZPd-)
 
-```{r}
-1 + 1
-```
+₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚
