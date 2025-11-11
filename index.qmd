@@ -16,7 +16,7 @@ about:
       target: blank
 ---
 
-### hello! ⋆˙⟡.ೃ࿔⋆
+### hello world! ⋆˙⟡.ೃ࿔⋆
 
 my name is grace stewart. i am a computer and data science major at chaminade university of honolulu. ♡
 

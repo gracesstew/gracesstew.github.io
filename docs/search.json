@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "𝒈𝒓𝒂𝒄𝒆 𝒔𝒕𝒆𝒘𝒂𝒓𝒕",
     "section": "",
-    "text": "hello! ⋆˙⟡.ೃ࿔⋆\nmy name is grace stewart. i am a computer and data science major at chaminade university of honolulu. ♡\nLINK\n₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚"
+    "text": "hello world! ⋆˙⟡.ೃ࿔⋆\nmy name is grace stewart. i am a computer and data science major at chaminade university of honolulu. ♡\nLINK\n₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "about me",
+    "title": "about",
     "section": "",
-    "text": "meow"
+    "text": "₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚"
   },
   {
     "objectID": "index.html#hello-.",
@@ -31,8 +31,8 @@
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
     "title": "about",
-    "section": "about me:",
-    "text": "about me:\n➜ name: grace\n➜ level: 22\n➜ personality: intp\n➜ etc: senior @ chaminade, chronically tired"
+    "section": "˖᯽ ݁˖ about me:",
+    "text": "˖᯽ ݁˖ about me:\n➜ name: grace\n➜ level: 22\n➜ personality: intp\n➜ etc: senior @ chaminade, chronically tired"
   },
   {
     "objectID": "about.html#hobbies",
@@ -45,7 +45,21 @@
     "objectID": "about.html#spotify",
     "href": "about.html#spotify",
     "title": "about",
-    "section": "spotify:",
-    "text": "spotify:\nhttps://open.spotify.com/user/r546d71b64wtxvlixyipz67un?si=bc88e701e92e4ce3"
+    "section": "˖᯽ ݁˖ spotify:",
+    "text": "˖᯽ ݁˖ spotify:\nhttps://open.spotify.com/user/r546d71b64wtxvlixyipz67un?si=bc88e701e92e4ce3"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "about",
+    "section": "°❀⋆.ೃ࿔･°❀⋆.ೃ࿔*:･",
+    "text": "°❀⋆.ೃ࿔･°❀⋆.ೃ࿔*:･\nI currently attend Chaminade as a double major in computer and data science with a minor in the fine arts. While not focused on my studies, I enjoy going to the gym or doing pilates. I thoroughly enjoy creating art, my favorite mediums being ceramics and digital art. In my free time, I enjoy playing competitive video games (e.g. Valorant)."
+  },
+  {
+    "objectID": "about.html#quick-facts",
+    "href": "about.html#quick-facts",
+    "title": "about",
+    "section": "˖᯽ ݁˖ quick facts:",
+    "text": "˖᯽ ݁˖ quick facts:\n➜ favorite food: tonkatsu\n➜ currently playing: pokemon Z-A\n➜ currently reading: the phone booth at the edge of the world\n➜ go to coffee order: iced macadamia nut latte with oat milk"
   }
 ]
