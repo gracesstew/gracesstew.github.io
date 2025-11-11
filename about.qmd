@@ -1,0 +1,29 @@
+---
+title: "about"
+image: media/grace.JPG
+about:
+  template: broadside
+---
+
+##### "and the universe said i love you because you are love"
+
+## about me:
+➜ name: grace
+
+➜ level: 22
+
+➜ personality: intp
+
+➜ etc: senior @ chaminade, chronically tired
+
+## hobbies:
+➜ drawing
+
+➜ video games
+
+➜ gym
+
+➜ making coffee
+
+## spotify:
+<https://open.spotify.com/user/r546d71b64wtxvlixyipz67un?si=bc88e701e92e4ce3>

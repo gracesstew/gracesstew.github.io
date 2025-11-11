@@ -1,6 +1,6 @@
 ---
 title: "𝒈𝒓𝒂𝒄𝒆 𝒔𝒕𝒆𝒘𝒂𝒓𝒕"
-image: media/echidnapuggle.png
+image: media/hachiware.jpg
 about:
   template: jolla
   links:
@@ -20,6 +20,6 @@ about:
 
 my name is grace stewart. i am a computer and data science major at chaminade university of honolulu. ♡
 
-[LINK](https://youtu.be/EfsK7-p-UW0?si=UjCdIHpnezRmZPd-)
+[LINK](https://www.youtube.com/watch?v=sPLqsLsooJY&list=RDsPLqsLsooJY&start_radio=1)
 
 ₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚

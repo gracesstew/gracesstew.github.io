@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "meow"
   },
   {
     "objectID": "index.html#hello-.",
@@ -23,8 +23,29 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎",
+    "title": "experience",
     "section": "",
     "text": "₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚\nDownload PDF file."
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "about",
+    "section": "about me:",
+    "text": "about me:\n➜ name: grace\n➜ level: 22\n➜ personality: intp\n➜ etc: senior @ chaminade, chronically tired"
+  },
+  {
+    "objectID": "about.html#hobbies",
+    "href": "about.html#hobbies",
+    "title": "about",
+    "section": "hobbies:",
+    "text": "hobbies:\n➜ drawing\n➜ video games\n➜ gym\n➜ making coffee"
+  },
+  {
+    "objectID": "about.html#spotify",
+    "href": "about.html#spotify",
+    "title": "about",
+    "section": "spotify:",
+    "text": "spotify:\nhttps://open.spotify.com/user/r546d71b64wtxvlixyipz67un?si=bc88e701e92e4ce3"
   }
 ]
