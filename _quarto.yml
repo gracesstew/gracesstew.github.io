@@ -8,13 +8,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resume.qmd
+      - href: about.qmd
+        text: About
+      - href: resume.qmd
+        text: Experience
       - icon: github
         href: https://github.com/gracesstew
         target: blank
       - icon: linkedin
         href: https://www.linkedin.com/in/gracesstewart
+        target: blank
+      - icon: bar-chart-fill
+        href: https://gracesstew.github.io/dashboards
         target: blank
 
 format:
